@@ -2,9 +2,12 @@
 
 This repository contains the materials for the lecture on Machine Learning at Clermont, done by Andrey Ustyuzhanin (Yandex).
 
+
 ## Day 1 - Basics
 
+
 ### General introduction and definitions
+
 
 ### Linear models
 
@@ -12,16 +15,22 @@ This repository contains the materials for the lecture on Machine Learning at Cl
 
 #### Classification
 
-### Nearest Neighbours classification
+#### Nearest Neighbours classification
+
 
 ### Quality evaluation (Figure of Merit)
 
+
 ### Regularization
+
 
 ### Decision Trees
 
 
-## Day 2 - 
+
+
+## Day 2 - Optimization
+
 
 ### Ensemble-based methods
 
