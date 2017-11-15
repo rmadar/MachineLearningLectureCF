@@ -1,6 +1,6 @@
 # Machine Learning Lecture
 
-This repository contains the materials for the lecture on Machine Learning at Clermont, done by Andrey Ustyuzhanin ( from Yandex). This lecture is organized in three days and cover the items below. For each part, there is example notebook to play with the described algorithms, implemented in scikit-learn or tensorflow. The data is describing flight delays.
+This repository contains the materials for the lecture on Machine Learning at Clermont (November 2017), done by Andrey Ustyuzhanin ( from Yandex). This lecture is organized in three days and cover the items below. For each part, there is example notebook to play with the described algorithms, implemented in scikit-learn or tensorflow. The data is describing flight delays.
 
 
 ### Day 1: Basics
