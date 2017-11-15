@@ -15,4 +15,7 @@ This repository contains the materials for the lecture on Machine Learning at Cl
 - The second part of this lecture is about hyperparameter tuning (_i.e._ how to tune the free parameters of an algorithm to get the best possible result). The notion de bayesian optimization with its acquisition function is introduced and the example of gaussian process is given to explain how to deal with a surrogate (ansatz function).
 
 
-### Day 3: Deep learning
+### Day 3: Introduction to TensorFlow
+
+- A brief introduction to neural network is given with an overview of convolutional neural network. Then the library TensorFlow is introduced and used in the practical session.
+
