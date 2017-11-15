@@ -5,7 +5,7 @@ This repository contains the materials for the lecture on Machine Learning at Cl
 
 ### Day 1: Basics
 
-- After a general introduction about the scope of ML and some definitions, few linear models were described (linear regression/classification, logistic regression, nearest neighbours). Then the general method de estimate the quality of an algorithm is given (definition of figure of merit). The notion of regularization is introduced together with few examples. The principle of a decision tree is then detailed.
+- After a general introduction about the scope of ML and some definitions, few linear models were described (linear regression/classification, logistic regression, nearest neighbours). Then the general method de estimate the quality of an algorithm is given (definition of figure of merit). The notion of regularization is introduced together with few examples. The principle of a decision tree is then detailed. A way to pre-process categorical feature is also discussed and tried.
 
 
 ### Day 2: Optimization
